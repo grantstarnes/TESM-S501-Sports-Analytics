@@ -8,7 +8,9 @@ This Sports Analytics repository holds the technical content covered over the co
 
 
 # Key Technical Skills
-
+- Python, R, JavaScript, PHP, SQL (MySQL, Oracle, Microsoft Access), Tableau
+- Pandas, NumPy, Microsoft Excel
+- HTML, CSS
 
 # Contact Information
 - Email: grantstarnes28@gmail.com
