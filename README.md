@@ -2,14 +2,19 @@
 This Sports Analytics repository holds the technical content covered over the course of the Fall 2025 semester. Here, you will find lab work, challenges, and project submissions that have sharpened my sport analytics specific skills and helped me excel in the field overall.
 
 ## About Me
-
+- 
 
 ## Relevant Projects
 ### Final Project Phase I
+- 
 ### Final Project Phase II
+- 
 ### Final Project Phase III
+- 
 ### Sprint Challenge 2
+- 
 ### Sprint Challenge 3
+- 
 
 ## Key Technical Skills
 - Python, R, JavaScript, PHP, SQL (MySQL, Oracle, Microsoft Access), Tableau
