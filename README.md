@@ -11,3 +11,5 @@ This Sports Analytics repository holds the technical content covered over the co
 
 
 # Contact Information
+- Email: grantstarnes28@gmail.com
+- LinkedIn: https://www.linkedin.com/in/grant-starnes/
